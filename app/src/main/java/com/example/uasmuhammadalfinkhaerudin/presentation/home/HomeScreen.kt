@@ -106,7 +106,7 @@ fun HomeScreen(
                     .fillMaxWidth()
             ) {
                 Text(
-                    text = "japel.edu",
+                    text = "Japel.edu",
                     fontWeight = FontWeight.SemiBold,
                     fontSize = 20.sp,
                 )

@@ -50,6 +50,11 @@ fun StartScreen(
             fontWeight = FontWeight.Bold,
             fontSize = 28.sp
         )
+        Text(
+            text = "1313621003",
+            fontWeight = FontWeight.SemiBold,
+            fontSize = 20.sp
+        )
         Spacer(modifier = Modifier.size(10.dp))
         Button(
             onClick = {
